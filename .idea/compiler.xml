@@ -6,10 +6,37 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="maven-template" />
+        <module name="activiti-crazy-0401-create-standalone" />
+        <module name="activiti-crazy-0401-create-stream" />
+        <module name="activiti-action" />
+        <module name="activiti-crazy-0402-ds-c3p0" />
+        <module name="activiti-the-definitive-guide" />
+        <module name="activiti-crazy-0401-create-standalone-inmem" />
+        <module name="activiti-crazy-1604-activiti6-spring-boot" />
+        <module name="activiti-crazy-0402-ds-dbcp" />
+        <module name="activiti-crazy-0402-ds-dbcp-java-config" />
+        <module name="activiti-crazy-0401-create-default" />
+        <module name="activiti-crazy-0401-create-resource" />
+        <module name="activiti-crazy-02-first" />
+        <module name="activiti-crazy-1604-activiti7-spring-boot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="activiti-action" target="1.5" />
+      <module name="activiti-crazy" target="1.5" />
+      <module name="activiti-crazy-02-first" target="1.5" />
+      <module name="activiti-crazy-0401-create-default" target="1.5" />
+      <module name="activiti-crazy-0401-create-resource" target="1.5" />
+      <module name="activiti-crazy-0401-create-standalone" target="1.5" />
+      <module name="activiti-crazy-0401-create-standalone-inmem" target="1.5" />
+      <module name="activiti-crazy-0401-create-stream" target="1.5" />
+      <module name="activiti-crazy-0402-ds-c3p0" target="1.5" />
+      <module name="activiti-crazy-0402-ds-dbcp" target="1.5" />
+      <module name="activiti-crazy-0402-ds-dbcp-java-config" target="1.5" />
+      <module name="activiti-crazy-1604-activiti6-spring-boot" target="1.5" />
+      <module name="activiti-crazy-1604-activiti7-spring-boot" target="1.5" />
+      <module name="activiti-samples" target="1.5" />
+      <module name="activiti-the-definitive-guide" target="1.5" />
       <module name="maven-template" target="1.5" />
     </bytecodeTargetLevel>
   </component>

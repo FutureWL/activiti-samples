@@ -1,3 +1,2 @@
-# Maven Template
+# Activiti 参考案例
 
-Maven 项目模板项目

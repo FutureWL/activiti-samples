@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/maven-template.iml" filepath="$PROJECT_DIR$/.idea/maven-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-action/activiti-action.iml" filepath="$PROJECT_DIR$/activiti-action/activiti-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-02-first/activiti-crazy-02-first.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-02-first/activiti-crazy-02-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-default/activiti-crazy-0401-create-default.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-default/activiti-crazy-0401-create-default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-resource/activiti-crazy-0401-create-resource.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-resource/activiti-crazy-0401-create-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-standalone/activiti-crazy-0401-create-standalone.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-standalone/activiti-crazy-0401-create-standalone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-standalone-inmem/activiti-crazy-0401-create-standalone-inmem.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-standalone-inmem/activiti-crazy-0401-create-standalone-inmem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-stream/activiti-crazy-0401-create-stream.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-0401-create-stream/activiti-crazy-0401-create-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-0402-ds-c3p0/activiti-crazy-0402-ds-c3p0.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-0402-ds-c3p0/activiti-crazy-0402-ds-c3p0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-0402-ds-dbcp/activiti-crazy-0402-ds-dbcp.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-0402-ds-dbcp/activiti-crazy-0402-ds-dbcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-0402-ds-dbcp-java-config/activiti-crazy-0402-ds-dbcp-java-config.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-0402-ds-dbcp-java-config/activiti-crazy-0402-ds-dbcp-java-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-1604-activiti6-spring-boot/activiti-crazy-1604-activiti6-spring-boot.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-1604-activiti6-spring-boot/activiti-crazy-1604-activiti6-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-crazy/activiti-crazy-1604-activiti7-spring-boot/activiti-crazy-1604-activiti7-spring-boot.iml" filepath="$PROJECT_DIR$/activiti-crazy/activiti-crazy-1604-activiti7-spring-boot/activiti-crazy-1604-activiti7-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-samples.iml" filepath="$PROJECT_DIR$/activiti-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-the-definitive-guide/activiti-the-definitive-guide.iml" filepath="$PROJECT_DIR$/activiti-the-definitive-guide/activiti-the-definitive-guide.iml" />
     </modules>
   </component>
 </project>
